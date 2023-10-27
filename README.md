@@ -1,21 +1,16 @@
 # N-little-ducks
 N Little Ducks: A little fun with a popular children's song.  Generates lyrics for an arbitrary number of starting ducks.
 
-# Example run:
+# Use of script:
 
 After cloning repository or downloading nLittleDucks.py and running it, user will receive a prompt.  After providing
 a number greater than 1, the user will receive the lyrics to the N Little Ducks song, starting with the number of 
 ducks they specified.
 
-For example:
+Example run:
 
 ```
-Give me a number greater than 1:
-
-Input:
-13
-
-Output:
+>Give me a number greater than 1: 13
 
 Thirteen Little Ducks: 
 
